@@ -1,0 +1,26 @@
+Day,Mood,Weather,degrees ,steps,Shape 
+1,happy ,sunny,18,600,square 
+2,happy,cloudy,16,15000,circle
+3,tired,cloudy,17,700,circle
+4,happy,cloudy,16,10000,square
+5,sad,cloudy,12,9000,sqaure
+6,happy ,cloudy,11,3000,square
+7,happy ,sunny,16,5000,square
+8,sad,cloudy,12,14000,square
+9,happy,cloudy,13,6000,circle
+10,happy,cloudy,14,1000,circle
+11,tired,partly sunny,16,11000,square
+12,happy,cloudy,16,11000,square
+13,sad,cloudy,17,10000,square
+14,sad,cloudy,19,8000,square
+15,happy,cloudy,12,12000,square
+16,happy,cloudy,10,6000,circle
+17,happy,cloudy,12,2000,circle
+18,sad,rain,12,12000,square
+19,tired,rain+sun ,9,3000,square
+20,happy ,cloudy,13,3000,square
+21,tired,rain+sun ,8,5000,square
+22,tired,rain ,11,400,square
+23,happy,sunny,11,6000,circle
+24,happy,rain heavy,13,4000,circle
+25,happy,rain ,14,9000,square
